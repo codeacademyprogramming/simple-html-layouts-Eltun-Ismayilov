@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color:  silver;
+}
+#albert{
+
+    font-size: 38px;
+    color: blue;
+    margin-left: 564px;
+    margin-top: 25px;
+}
+#emc{
+    font-size: 29px;
+    color: #12b517;
+    margin-left: 632px;
+    margin-top: 4px;
+}
+#img{
+    margin-left: 522px;
+    margin-top: 12px;
+    width: 314px;
+    height: 228px;
+}
+.phy{
+    margin-left: 559px;
+    margin-top: 2px;
+    font-size: 19px;
+}
+.things{
+    margin-left: 523px;
+    margin-top: 12px;
+    font-size: 19px;
+}
+.the{
+    margin-left: 54px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+h3{
+    margin-left: 54px;
+    margin-top: 10px;
+    font-size: 17px;
+}

@@ -1,0 +1,138 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.qwer{
+    background-color: rgb(214, 190, 190);
+}
+
+
+.large{
+    background-color: white;
+    width: 70%;
+    height: 1170px;
+    border-radius:13px;
+    border: 2px solid silver;
+    margin-top: 6px;
+    margin-left: 200px;
+}
+
+ .h4{
+    margin-left: 297px;
+    margin-top: 8px;
+    background-color: white;
+
+}
+.h5{
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color: white;
+
+}
+.fiel{
+    height: 385px;
+    width: 859px;
+    margin-left: 43px;
+    margin-top: 10px;
+}
+
+#fname{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#lname{
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.medium{
+    height: 250px;
+    width: 862px;
+    margin-left: -1px;
+    margin-top: 26px;
+    background-color: white;
+    border-radius:5px;
+    border: 2px solid silver;
+}
+.chec{
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.small{
+    width: 862px;
+    height: 44px;
+    border-radius:5px;
+    border: 2px solid silver;
+    margin-left: -1px;
+    margin-top: 26px;
+}
+
+.words{
+    margin-left: 11px;
+    font-size: 14px;
+    margin-top: 18px;
+}
+.div1{
+    width: 293px;
+    height: 61px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 2px solid silver;
+
+   
+}
+.div2{
+    width: 293px;
+    height: 61px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border: 2px solid silver;
+}
+.please{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.police{
+    margin-top: 27px;
+    margin-left: 10px;
+    font-size: 17px;
+    display: inline-block;
+}
+.btn{
+    margin-top: 27px;
+    margin-left: 10px;
+    width: 97px;
+    height: 35px;
+    background-color: red;
+    color: white;
+    transition: 1s;
+    border: none;
+}
+.btn:hover{
+    background-color: rgb(52, 231, 216);
+    transition: 1s;
+   
+}
+
+.btn1{
+    margin-top: 17px;
+    margin-left: 321px;
+    border: none;
+    width: 196px;
+    height: 35px;
+    background-color: red;
+    color: white;
+    transition: 2s;
+
+ 
+}
+.btn1:hover{
+    background-color: rgb(52, 231, 216);
+    transition: 1s;
+   
+}
